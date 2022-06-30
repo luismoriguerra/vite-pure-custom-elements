@@ -1,0 +1,4 @@
+:host button {
+  background-color: var(--background-color, #fff);
+  color: var(--text-color, red);
+}
